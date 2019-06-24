@@ -5,8 +5,8 @@ A Symfony 4 project of a Blog Website
 
 ## Project Walkthrough
 ### MVP:
-* User can post blog articles
-* Like any certain blog
+* Users can post blog articles
+* Users can like(heart) other's blog
 * Post comments to others blog articles
 
 ## Technologies Used: 
